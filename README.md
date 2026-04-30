@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.unpwned.io/brand/ninja.png" alt="UNPWNED" width="64" height="64" />
+  <img src="assets/logo.png" alt="UNPWNED" width="200" />
 </p>
 
 <h1 align="center">slopsquat-guard</h1>
